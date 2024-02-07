@@ -22,7 +22,7 @@
 QT_BEGIN_NAMESPACE
 namespace Ui
 {
-class Widget;//git_test
+class Widget;
 }
 QT_END_NAMESPACE
 

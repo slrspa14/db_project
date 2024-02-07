@@ -11,7 +11,6 @@ Widget::Widget(QWidget *parent)
     , ui(new Ui::Widget)
 {
     ui->setupUi(this);
-    //git
     // 메인 버튼 왼쪽 정렬
     ui -> btn_topBrand->setStyleSheet("Text-align:left");
     ui->btn_topModel->setStyleSheet("Text-align:left");
